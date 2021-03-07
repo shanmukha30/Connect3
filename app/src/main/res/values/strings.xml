@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="todo">TODO</string>
+    <string name="play_again">Play again</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="circle_goes_first">Circle goes first</string>
+</resources>
